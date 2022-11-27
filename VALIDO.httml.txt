@@ -1,0 +1,11 @@
+<!DOCTYPE HTML>
+<HTML>
+
+<HEAD>
+
+<TITLE> CHECKPOINT OF VALID CERTIFICATE</TITLE>
+
+<META =”description” content="VALIDADOR DE CODIGOS QR DE VACUNACION">
+
+
+<img src="valid.jpg">
